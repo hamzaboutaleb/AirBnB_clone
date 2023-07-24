@@ -28,6 +28,7 @@
   width: 25%;
   padding-left: 30px;
   box-sizing: border-box;
+  position: relative;
 
 }
 .locations h3 , .amenities h3 {
@@ -47,12 +48,13 @@
 .popover {
   display: none;
   background-color: #FAFAFA;
-  width: calc(100% + 30px);
+  width: calc(100%);
   margin-left: -30px;
   border: 1px solid #DDDDDD;
   border-radius: 4px;
   padding: 25px 20px;
   box-sizing: border-box;
+  position: absolute;
 }
 .popover h2 {
   margin: 0;
