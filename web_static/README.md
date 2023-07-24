@@ -1,4 +1,4 @@
-Web static project
+### Web static project
 
 ## The goal of this project is to create a simple static web application that mimics the design of the AirBnB website, with no functionality or dynamic content.
 
